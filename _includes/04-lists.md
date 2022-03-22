@@ -1,0 +1,4 @@
+- eating
+- sleep
+* playing
+* watching
