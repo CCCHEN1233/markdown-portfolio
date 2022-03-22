@@ -1,4 +1,4 @@
--eating
--sleep
-*playing
-*watching
+- eating
+- sleep
+* playing
+* watching
