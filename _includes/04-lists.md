@@ -1,4 +1,4 @@
-1.eating
-2.sleep
-  i.playing
-  ii.watching
+-eating
+-sleep
+*playing
+*watching
